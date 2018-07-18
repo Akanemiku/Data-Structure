@@ -2,8 +2,8 @@
 ```
 typedef struct{
 	QElemType   *base;	//存储空间的基地址 
-	int front;			// 队头
-	int rear;			// 队尾 
+	int front;		// 队头
+	int rear;		// 队尾 
 }SqQueue;
 ```
 
